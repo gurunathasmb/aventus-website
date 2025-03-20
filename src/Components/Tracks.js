@@ -5,7 +5,7 @@ import TracksAnimation from "./TracksAnimation";
 import Web3 from "./Blockchain.json";
 import "./css/tracks.css";
 import ARVR from "./IOT.json";
-import { height } from "@fortawesome/free-brands-svg-icons/fa42Group";
+// import { height } from "@fortawesome/free-brands-svg-icons/fa42Group";
 function Tracks() {
   return (
     <div
